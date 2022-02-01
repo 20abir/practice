@@ -4,6 +4,7 @@ import 'package:practice/page10.dart';
 import 'package:practice/page11.dart';
 import 'package:practice/page12.dart';
 import 'package:practice/page13.dart';
+import 'package:practice/page14.dart';
 import 'package:practice/page2.dart';
 import 'package:practice/page3.dart';
 import 'package:practice/page4.dart';
@@ -51,6 +52,7 @@ class _MyAppState extends State<MyApp> {
             Page11(),
             Page12(),
             Page13(),
+            Page14(),
           ],
         ),
       ),
